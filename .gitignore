@@ -20,4 +20,5 @@ rebel.xml
 *.iml
 .mvn
 workspace.xml
+.idea/
 /webFront/vue.config.js

@@ -16,7 +16,7 @@ public class ListNode {
         this.next = next;
     }
 
-    public static ListNode build(int[] nums) {
+    public static ListNode build(int... nums) {
         ListNode p = new ListNode();
         ListNode p1 = p;
         for (Integer num : nums) {
